@@ -39,9 +39,7 @@ function App() {
   <h1 style={{ color: '#5c527f', margin: 0, textAlign: 'center', flex: 1 }}>Font Transformer</h1>
 </div>
 
-
-      <br />
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', marginTop: '20px' }}>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', marginTop: '-30px' }}>
   <textarea
     id="jj"
     className="form-control"
